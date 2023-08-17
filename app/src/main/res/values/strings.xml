@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MakeDailyNews</string>
+    <string name="mainTitle">New Post News</string>
+    <string name="hintTitle">Title</string>
+    <string name="writeNews">Write news ...</string>
+    <string name="publicationDate">Publication Date</string>
+    <string name="author">Author</string>
+    <string name="sendPostTitleButton">Send Post</string>
+</resources>
